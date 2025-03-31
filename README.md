@@ -16,7 +16,5 @@ Kueri (Query): Pertanyaan yang diajukan ke sistem untuk mendapatkan jawaban berd
 
 2. Fitur Utama Prolog
 Unifikasi (Unification): Proses mencocokkan variabel dengan nilai atau struktur data yang sesuai.
-
 Pencarian Backtracking: Prolog secara otomatis mencoba berbagai kemungkinan solusi dengan kembali ke alternatif lain jika gagal.
-
 Penggunaan List dan Rekursi: Prolog mendukung manipulasi daftar dan pemrosesan rekursif.
