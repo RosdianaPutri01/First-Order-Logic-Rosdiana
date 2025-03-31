@@ -1,4 +1,4 @@
-# First-Order-Logic-Rosdiana
+# TugasFirstOrderLogic-Rosdiana
 
 
 Repositori dalam konteks pemrograman dan pengelolaan kode adalah tempat penyimpanan kode sumber yang memungkinkan kolaborasi dan versi kontrol. Dalam Prolog, repositori sering digunakan untuk menyimpan proyek, skrip, atau pustaka yang terkait dengan logika pemrograman.
